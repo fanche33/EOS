@@ -1,3 +1,1 @@
-"# EOS" 
-"# EOS" 
-"# EOS" 
+NYCU EOS class
